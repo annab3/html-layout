@@ -1,0 +1,74 @@
+.circle {
+    border-radius: 50%;
+    height: 18vh;
+    width: 12vw;
+    background: lightblue;
+    position: absolute;
+    left: 54vw;
+    top: 9vh;
+    display: inline-block:
+}
+body {
+    background: rgb(218, 216, 216);
+    padding: 5vh 17vw;
+}
+.background {
+    background: white;
+    height: 75vh;
+    width: 65vw;
+    padding: 1.5vh 1vw;
+    border: 1px solid black;
+}
+nav {
+    height: 17.5vh;
+    width: 62.5vw;
+    border: 3px solid black;
+    padding: 1vh 1vw;
+    
+}
+main {
+    height: 24vh;
+    width: 64.5vw;
+    border: 3px dotted black;
+}
+footer {
+    width:30vw;
+    height: 22vh;
+    margin-left: 18vw;
+    box-shadow: 2px 4px 10px rgb(131, 130, 130);
+    
+}
+.purplerec {
+    height: 13vh;
+    width: 3vw;
+    background: rgb(121, 57, 194);
+    float: left;
+    position: absolute;
+    left: 20vw;
+    top: 13.5vh;
+}
+.greenrec {
+    height: 17.5vh;
+    width: 27vw;
+    background: green;
+    position: absolute;
+    left: 25vw;
+    top: 9vh;
+
+}
+.yellowrec {
+    height: 17vh;
+    width: 58vw;
+    background: rgb(252, 252, 181);
+    position: absolute;
+    left: 22vw;
+    top: 34vh;
+    box-shadow: 10px 5px 5px black;
+}
+p {
+    text-align: center;
+    color: rgb(4, 4, 128);
+    font: verdana;
+    font-size: 130%;
+    letter-spacing: 3px;
+}

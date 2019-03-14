@@ -1,0 +1,57 @@
+body {
+    background: rgb(196, 196, 196);
+}
+.container {
+    border: 1px solid black;
+    height: 85vh;
+    width: 50vw;
+    position: absolute;
+    top: 7vh;
+    left: 26vw;
+    background: white;
+    padding: 1px 1px
+}
+.greystripe {
+    height: 12vh;
+    width: 50vw;
+    background: rgb(196, 196, 196);
+}
+.bluesquare {
+    height: 9vh;
+    width: 5vw;
+    background: rgb(83, 122, 248);
+    position: absolute;
+    top: 1.5vh;
+    left: 1vw;
+}
+.textbox {
+    width:44vw;
+    height: 21vh;
+    background: white;
+    padding: 3vw;
+}
+.bluestripe {
+    width:50vw;
+    height: 13vh;
+    background: rgb(95, 135, 245);
+}
+.aquastripe {
+    width:50vw;
+    height: 13vh;
+    background: rgb(134, 233, 220);
+}
+.greenstripe {
+    width:50vw;
+    height: 13vh;
+    background: rgb(194, 233, 132);
+}
+.yellowstripe {
+    width:50vw;
+    height: 13vh;
+    background: rgb(236, 219, 59);
+}
+p {
+    text-align: left;
+    font-size: 110%
+
+}

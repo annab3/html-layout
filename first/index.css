@@ -1,0 +1,37 @@
+body {
+    background: rgb(223, 222, 222);
+    padding: 5vh 20vw;
+}
+.under {
+    
+    height: 90vh;
+    width: 60vw;
+    border: 1px solid black;
+}
+.over {
+    height: 89.8vh;
+    width: 59.8vw;
+    border: 1.3px solid white;
+}
+.top {
+    height: 15vh;
+    width: 59.8vw;
+    background: rgb(66, 63, 63);
+}
+section {
+    height: 74.5vh;
+    background: rgb(214, 213, 213);
+    padding: 0vh 10vw;
+}
+.middle {
+    height: 68.5vh;
+    width: 40vw; 
+    background: rgb(238, 236, 236);
+}
+.bottom {
+    width: 40vw;
+    height: 6vh;
+    background: rgb(19, 19, 19);
+
+
+}
